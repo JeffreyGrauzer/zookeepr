@@ -101,11 +101,11 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "Dojo",
+      "species": "Dog",
+      "diet": "carnivore",
       "personalityTraits": [
-        "hungry"
+        "zany"
       ],
       "id": "10"
     }
